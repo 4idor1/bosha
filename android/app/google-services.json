@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "432468585037",
+    "project_id": "kitapbar-bb30d",
+    "storage_bucket": "kitapbar-bb30d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432468585037:android:03c1cd5d28151df2d64a04",
+        "android_client_info": {
+          "package_name": "com.example.flutter_kitap_bar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9vZQ0YH5fZ4IBwA66paJIAW9dQ4SH3rI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
